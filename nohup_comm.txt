@@ -1,0 +1,1 @@
+nohup python -u main.py > imagenet.out 2>&1 &
